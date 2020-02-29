@@ -1,6 +1,8 @@
 # AutoBrailler
 This repository contains code and for a device that sits on top of a brailler and allows it to function as a printer.
 
+For more information on this project, go to the following link: [https://devpost.com/software/autobrailler](https://devpost.com/software/autobrailler)
+
 HOW TO RUN BRAILLE PRINTER:
 
 First, move any text file you want to print into the 'BraillePrinter' folder.
