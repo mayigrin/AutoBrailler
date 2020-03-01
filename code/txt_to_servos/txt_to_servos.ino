@@ -19,7 +19,7 @@ const int ON_ANGLE = 30;
 const int OFF_ANGLE = 60;
 const int SERVO_MOVEMENT_DELAY = 250;
 const int CURRENT_THRESHOLD = 255;
-const int CARRIAGE_PULL_FORWARD_TIME = 12000;
+const int CARRIAGE_PULL_FORWARD_TIME = 9000;
 const int CARRIAGE_PULL_BACKWARD_TIME = 6000;
 
 void setup() {  
